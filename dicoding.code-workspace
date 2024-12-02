@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../xampp/htdocs/php_2"
+		},
+		{
+			"path": "../../../../xampp/htdocs/dinamis_php"
+		},
+		{
+			"path": "../../../../xampp/htdocs/global.php"
+		},
+		{
+			"path": "../../../../xampp/htdocs/data_siswa"
+		}
+	],
+	"settings": {}
+}
